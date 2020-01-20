@@ -1,0 +1,28 @@
+{
+	"shows": [
+		{
+			"title": "show1",
+			"category": ["broadway", "musical", "drama"],
+			"url": "/show1",
+			"rating": 5
+		},
+		{
+			"title": "show2",
+			"category": ["broadway", "play", "drama"],
+			"url": "/show2",
+			"rating": 3
+		},
+		{
+			"title": "show3",
+			"category": ["off-broadway", "musical", "comedy"],
+			"url": "/show3",
+			"rating": 4
+		},
+		{
+			"title": "show4",
+			"category": ["broadway", "play"],
+			"url": "/show3",
+			"rating": 4
+		}
+	]
+}
